@@ -36,3 +36,20 @@
 
 </p>
 </details>
+
+<details><summary>File Input and Output</summary>
+<p>
+
+- [CSV Review Exercise](pyFiles/csv_review_exercise.py)
+    - Reading and writing to CSV
+- [High Scores](pyFiles/high_scores.py)
+    - Adding keys/Changing values in dictionary
+- [Pattern Matching Delete Files](pyFiles/pattern_match_delete.py)
+    - Delete based on size
+- [Read and write to CSV](pyFiles/read_and_write_csv.py)
+
+
+</p>
+</details>
+
+- [](pyFiles/.py)
