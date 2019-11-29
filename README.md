@@ -58,21 +58,44 @@
 </p>
 </details>
 
-<details><summary>File Input and Output</summary>
+<details><summary>Creating and Modifying PDFs</summary>
 <p>
 
-- [](pyFiles/challenge_covered_emperor.py)
-- [](pyFiles/extract_a_portion_of_a_pdf.py)
-- [](pyFiles/half_and_half.py)
-- [](pyFiles/intro_pride_and_prejudice.py)
-- [](pyFiles/password_pdf.py)
-- [](pyFiles/pdf_merge.py)
-- [](pyFiles/ReEx_walrus.py)
-- [](pyFiles/ReEz_the_whistling_gypsy.py)
-- [](pyFiles/ugly_duckling.py)
+- [Challenge: Covered Emperor](pyFiles/challenge_covered_emperor.py)
+- [Extract a Portion of a PDF](pyFiles/extract_a_portion_of_a_pdf.py)
+- [Splitting a PDF](pyFiles/half_and_half.py)
+- [Intro](pyFiles/intro_pride_and_prejudice.py)
+- [En-, and Decrypting PDFs](pyFiles/password_pdf.py)
+- [Merging PDFs](pyFiles/pdf_merge.py)
+- [Walrus Exercise](pyFiles/ReEx_walrus.py)
+- [Slur Exercise](pyFiles/ReEz_the_whistling_gypsy.py)
+- [Rotating PDFs](pyFiles/ugly_duckling.py)
 
 </p>
 </details>
 
+<details><summary>Working with SQLite</summary>
+<p>
+
+- [Executing Multiple SQL Statements](pyFiles/executing_multiple_SQL_statements.py)
+- [Intro to SQLite](pyFiles/intro_sqlite.py)
+- [Exercise: Roster](pyFiles/ReEx_roster.py)
+- [Retrieving Data](pyFiles/retrieving_data.py)
+- [SQL Injection](pyFiles/sql_injection.py)
+- [DB tables](pyFiles/tables.py)
+
+</p>
+</details>
+
+<details><summary>File Input and Output</summary>
+<p>
+
+- [Using beautifulsoup4](pyFiles/html_parse_beautifulsoup4.py)
+- [Exercise: Regex](pyFiles/reEx_regex.py)
+- [Regex Intro](pyFiles/regex_intro.py)
+- [Scrape and Parse](pyFiles/scrape_and_parse.py)
+
+</p>
+</details>
 
 - [](pyFiles/.py)
