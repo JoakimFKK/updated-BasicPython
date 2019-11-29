@@ -87,7 +87,7 @@
 </p>
 </details>
 
-<details><summary>File Input and Output</summary>
+<details><summary>Web Scraping</summary>
 <p>
 
 - [Using beautifulsoup4](pyFiles/html_parse_beautifulsoup4.py)
@@ -98,4 +98,20 @@
 </p>
 </details>
 
-- [](pyFiles/.py)
+<details><summary>GUI</summary>
+<p>
+
+- [Challenge: GUI](pyFiles/challenge_gui.py)
+- [Assigning Widgets](pyFiles/assign_widgets.py)
+- [Your First tkinter Project](pyFiles/your_first_tkinter_project.py)
+- [Exercise: Fahrenheit](pyFiles/Exercise_fahrenheit.py)
+- [Text Editor](pyFiles/text_editor.py)
+- [Put Your Buttons to Work](pyFiles/put_your_buttons_to_work.py)
+- [Temperature Converter](pyFiles/temperature_converter.py)
+- [Exit Your Program Gracefully](pyFiles/exit_your_program_gracefully.py)
+- [File and Directory Selection](pyFiles/file_and_directory_selection.py)
+- [Intro GUI](pyFiles/intro_gui.py)
+- [Real World Example](pyFiles/real_world_example.py)
+
+</p>
+</details>
