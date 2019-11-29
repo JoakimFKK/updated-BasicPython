@@ -47,9 +47,32 @@
 - [Pattern Matching Delete Files](pyFiles/pattern_match_delete.py)
     - Delete based on size
 - [Read and write to CSV](pyFiles/read_and_write_csv.py)
+- [Reading from a file](pyFiles/reading_from_a_file.py)
+- [Split a CSV File](pyFiles/split_a_csv_file.py)
+- [The OS Module](pyFiles/os_module.py)
+- [The OS Module Review Exercises](pyFiles/os_review_exercises.py)
+- [Traversing a file with `seek()`](pyFiles/traversing_with_seek.py)
+- [Writing Output to a File](pyFiles/writing_output_to_a_file.py)
 
 
 </p>
 </details>
+
+<details><summary>File Input and Output</summary>
+<p>
+
+- [](pyFiles/challenge_covered_emperor.py)
+- [](pyFiles/extract_a_portion_of_a_pdf.py)
+- [](pyFiles/half_and_half.py)
+- [](pyFiles/intro_pride_and_prejudice.py)
+- [](pyFiles/password_pdf.py)
+- [](pyFiles/pdf_merge.py)
+- [](pyFiles/ReEx_walrus.py)
+- [](pyFiles/ReEz_the_whistling_gypsy.py)
+- [](pyFiles/ugly_duckling.py)
+
+</p>
+</details>
+
 
 - [](pyFiles/.py)
